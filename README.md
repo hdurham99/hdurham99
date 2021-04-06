@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hdurham99
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ... Java and Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... hdurham2@memphis.edu
 
 <!---
