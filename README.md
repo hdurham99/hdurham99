@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hdurham99
+- 👋 Hi, I’m Hayden Durham
 - 🌱 I’m currently learning ... Java and Python
 - 📫 How to reach me ... hdurham2@memphis.edu
 
